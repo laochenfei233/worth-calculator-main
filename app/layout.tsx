@@ -71,7 +71,7 @@ export default function RootLayout({
               </a>
               
               <a 
-                href="https://citycompare.zippland.com/" 
+                href="https://citycompare.xyern.com/" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative flex flex-col items-center"
@@ -115,6 +115,9 @@ export default function RootLayout({
             <div className="text-center">
               <span className="text-[10px] text-gray-400 dark:text-gray-500">更多实用工具 by zippland.com</span>
             </div>
+            <div className="text-center">
+              <span className="text-[9px] text-gray-400">二次部署 by <a href="https://xyern.com">laochenfei233</a> </span>
+          </div>
           </div>
         </footer>
       </body>
